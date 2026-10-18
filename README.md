@@ -7,7 +7,7 @@ Primera pràctica d'Android amb **Kotlin** i **Jetpack Compose** (2n DAM – Ins
 ## Captura de pantalla
 
 <p align="center">
-  <img src="screenshots/captura.png" alt="Captura de la interfície de l'app" width="300"/>
+<img width="875" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9e03e75-0b6e-47c6-a5e8-691268c31494" />
 </p>
 
 ## Funcionalitats
