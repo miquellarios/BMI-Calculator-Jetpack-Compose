@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="140dp"
+    android:height="140dp"
+    android:viewportWidth="140"
+    android:viewportHeight="140">
+    <!-- Radial strands -->
+    <path
+        android:strokeColor="#3A2E52"
+        android:strokeWidth="0.8"
+        android:pathData="M0,0 L140,0 M0,0 L110,35 M0,0 L80,80 M0,0 L35,110 M0,0 L0,140 M0,0 L140,45 M0,0 L45,140" />
+    <!-- Concentric web arcs -->
+    <path
+        android:strokeColor="#3A2E52"
+        android:strokeWidth="0.8"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M25,0 Q18,18 0,25 M50,0 Q35,35 0,50 M75,0 Q52,52 0,75 M100,0 Q70,70 0,100 M125,0 Q88,88 0,125" />
+</vector>

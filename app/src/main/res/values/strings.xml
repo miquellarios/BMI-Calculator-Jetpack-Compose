@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMICalculatorXML</string>
+    <string name="tv_title">Calculadora IMC</string>
+    <string name="tv_weight">82</string>
+    <string name="tv_subtitle">Calcula el teu índex de massa corporal</string>
+    <string name="tv_result_title">El teu IMC</string>
+    <string name="tv_height">186</string>
+    <string name="tc_bmi_status">● Pes saludable</string>
+    <string name="tv_bmi">23,7</string>
+    <string name="et_name">Introdueix el teu nom</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">−</string>
+    <string name="btn_calculate">CALCULAR IMC</string>
+    <string name="tv_name">NOM</string>
+</resources>

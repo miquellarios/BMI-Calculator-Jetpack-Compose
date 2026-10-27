@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BMICalculatorXML" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gothic_crimson</item>
+        <item name="colorSecondary">@color/gothic_silver</item>
+        <item name="android:windowBackground">@color/gothic_void</item>
+        <item name="colorSurface">@color/gothic_obsidian</item>
+    </style>
+
+    <style name="Theme.BMICalculatorXML" parent="Base.Theme.BMICalculatorXML" />
+</resources>

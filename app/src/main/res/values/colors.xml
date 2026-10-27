@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gothic Minimalist Palette -->
+    <color name="gothic_void">#07070A</color>
+    <color name="gothic_obsidian">#111118</color>
+    <color name="gothic_surface">#181824</color>
+    <color name="gothic_crimson">#A80025</color>
+    <color name="gothic_crimson_dark">#6B0017</color>
+    <color name="gothic_silver">#C5C5D5</color>
+    <color name="gothic_muted">#8D86A8</color>
+    <color name="gothic_border">#2E2345</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
