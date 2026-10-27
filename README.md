@@ -1,26 +1,13 @@
-# BMI Calculator XML
+# BMI Calculator XML – Minimalist Gothic & Spiderweb Edition
 
-Primera pràctica d'Android amb **Kotlin** utilitzant una interfície creada amb **XML**.
+Calculadora d'**IMC (Índex de Massa Corporal)** dissenyada amb **XML** i Material Components, ara actualitzada amb un nou estil **gòtic minimalista i telarañas**.
 
-L'objectiu principal del projecte és començar a entendre el funcionament bàsic d'una aplicació Android utilitzant el sistema tradicional de vistes, abans de treballar amb tecnologies més modernes com **Jetpack Compose**.
+## Característiques
 
-En aquesta pràctica es construeix una calculadora d'IMC (Índex de Massa Corporal) senzilla, on l'usuari pot introduir el seu nom, seleccionar l'alçada, modificar el pes i calcular el seu IMC.
+- Interfície basada en XML adaptada a un estil fosc i tètric (Void Black, Obsidian, Crimson Gòtic).
+- Detalls de telarañas vectorials a les cantonades.
+- Càlcul d'IMC, control de pes i alçada amb estils moderns.
 
----
+## Autor
 
-## Objectius de la pràctica
-
-Amb aquest projecte es treballen els conceptes bàsics d'una aplicació Android:
-
-- Crear una interfície amb **XML**
-- Utilitzar diferents tipus de components visuals
-- Accedir als components de la vista des de Kotlin
-- Detectar accions de l'usuari
-- Modificar el contingut de la interfície des del codi
-- Fer càlculs senzills
-- Aplicar condicions amb `if` i `when`
-- Validar dades introduïdes per l'usuari
-- Mostrar o ocultar components
-
-![Captura de l'aplicació](images/bmi-calculator.png)
-
+Miquel Larios Linares – 2n DAM, Institut Baix Camp (Reus)

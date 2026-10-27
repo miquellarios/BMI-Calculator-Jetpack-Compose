@@ -4,9 +4,7 @@ plugins {
 
 android {
     namespace = "org.insbaixcamp.bmicalculatorxml"
-    compileSdk {
-        version = release(37)
-    }
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "org.insbaixcamp.bmicalculatorxml"
@@ -20,9 +18,11 @@ android {
 
     buildTypes {
         release {
-            optimization {
-                enable = false
-            }
+            isMinifyEnabled = false
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "rules.keep"
+            )
         }
     }
     compileOptions {
