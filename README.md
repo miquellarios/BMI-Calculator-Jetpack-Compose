@@ -3,6 +3,7 @@
 Calculadora d'**IMC (Índex de Massa Corporal)** dissenyada amb **XML** i Material Components, ara actualitzada amb un nou estil **gòtic minimalista i telarañas**.
 
 ## Captura
+<img width="363" height="545" alt="image" src="https://github.com/user-attachments/assets/6baa0499-70f6-41f4-8531-c461c116ad42" />
 
 
 ## Característiques
