@@ -2,6 +2,9 @@
 
 Calculadora d'**IMC (Índex de Massa Corporal)** dissenyada amb **XML** i Material Components, ara actualitzada amb un nou estil **gòtic minimalista i telarañas**.
 
+## Captura
+
+
 ## Característiques
 
 - Interfície basada en XML adaptada a un estil fosc i tètric (Void Black, Obsidian, Crimson Gòtic).
